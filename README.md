@@ -1,5 +1,14 @@
 # Fullstack_ecommerce
 
+team mates
+
+- Sneha M
+- Lokesh K
+- Kaviya M
+- Yuvateja G
+- Naveen 
+
+[Ecommerce site : live link](https://mew.onrender.com/)
 ### INTRODUCTION
 In the bustling digital marketplace of the 21st century, our E-Commerce website stands as a beacon of convenience, choice, and connectivity for consumers and businesses alike.
 
